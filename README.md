@@ -1,2 +1,2 @@
 # pyAssistant
-Answers all you questions instantly.
+Answers all your questions instantly.
